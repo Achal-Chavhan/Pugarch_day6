@@ -14,22 +14,22 @@ day-06/
 │   ├── package.json
 │   └── tsconfig.json
 ├── react-app/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── DashboardCards.tsx
-│   │   │   ├── EmployeeDetails.tsx
-│   │   │   ├── EmployeeForm.tsx
-│   │   │   └── EmployeeTable.tsx
-│   │   ├── api.ts
-│   │   ├── App.tsx
-│   │   ├── index.css
-│   │   ├── main.tsx
-│   │   └── types.ts
-│   ├── index.html
-│   ├── package.json
-│   ├── tsconfig.json
-│   └── vite.config.ts
-└── README.md
+    ├── src/
+    │   ├── components/
+    │   │   ├── DashboardCards.tsx
+    │   │   ├── EmployeeDetails.tsx
+    │   │   ├── EmployeeForm.tsx
+    │   │   └── EmployeeTable.tsx
+    │   ├── api.ts
+    │   ├── App.tsx
+    │   ├── index.css
+    │   ├── main.tsx
+    │   └── types.ts
+    ├── index.html
+    ├── package.json
+    ├── tsconfig.json
+    └── vite.config.ts
+
 
 **Features**
 -->Dashboard
