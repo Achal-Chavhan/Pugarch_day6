@@ -1,0 +1,30 @@
+body
+{
+    font-family:Arial,sans-serif;margin:0;background:#799aed;color:#202938
+}
+main
+{
+    max-width:1000px;margin:40px auto;padding:24px
+}
+h1
+{
+    margin-bottom:24px
+}.cards
+{
+    display:grid;grid-template-columns:repeat(3,1fr);gap:16px
+
+}.cards article
+{
+    background:white;padding:22px;border-radius:12px;box-shadow:0 3px 14px #17255412
+}.cards span
+{
+    display:block;color:#667085;margin-bottom:10px
+}.cards strong
+{
+    font-size:26px
+}
+table{width:100%;border-collapse:collapse;background:white;border-radius:12px;overflow:hidden}
+th,td{text-align:left;padding:14px;border-bottom:1px solid #e8ebf2}
+th{background:#eef2ff}.note{color:#667085}@media(max-width:650px)
+{.cards{grid-template-columns:1fr}main{margin:10px;padding:16px}
+table{font-size:13px}th,td{padding:8px}}
